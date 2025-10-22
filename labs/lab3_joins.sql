@@ -1,0 +1,2 @@
+-- Lab 3: JOINS
+-- Practice joining tables using INNER, LEFT, RIGHT, and FULL joins.
