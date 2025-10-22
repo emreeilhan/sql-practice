@@ -1,0 +1,2 @@
+-- Lab 9: Indexing
+-- Learn how indexing can improve query performance.
