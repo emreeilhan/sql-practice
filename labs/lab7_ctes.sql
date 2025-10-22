@@ -1,0 +1,2 @@
+-- Lab 7: CTEs
+-- Use Common Table Expressions (CTEs) to structure complex queries.
