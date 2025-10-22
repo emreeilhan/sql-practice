@@ -1,0 +1,2 @@
+-- Lab 2: WHERE Clauses
+-- Practice filtering data using WHERE conditions.
