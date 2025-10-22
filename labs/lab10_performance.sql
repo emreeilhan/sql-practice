@@ -1,0 +1,2 @@
+-- Lab 10: Performance Tips
+-- Explore basic SQL performance optimization techniques.
