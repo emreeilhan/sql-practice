@@ -1,0 +1,2 @@
+-- Lab 8: Views
+-- Practice creating and using views.
