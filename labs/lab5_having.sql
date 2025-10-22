@@ -1,0 +1,2 @@
+-- Lab 5: HAVING
+-- Use HAVING to filter groups after aggregation.
