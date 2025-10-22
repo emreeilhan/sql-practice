@@ -1,0 +1,2 @@
+-- Lab 4: GROUP BY
+-- Practice grouping data and aggregations using GROUP BY.
