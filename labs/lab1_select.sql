@@ -1,0 +1,2 @@
+-- Lab 1: SELECT Basics
+-- Use SELECT statement to retrieve data from tables.
