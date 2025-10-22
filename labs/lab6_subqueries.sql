@@ -1,0 +1,2 @@
+-- Lab 6: Subqueries
+-- Practice writing subqueries for filtering and computations.
